@@ -1,6 +1,6 @@
 # Shared ERC Proposals & Reviews — Online Collection
 
-Compiled May 2026 by Mike (almugabo@googlemail.com), with Claude.
+Compiled May 2026 by Mike, with Claude.
 
 This folder catalogues proposals submitted to the **European Research Council (ERC)** that the Principal Investigators have voluntarily shared online, plus a small set of reviewer feedback / Step 2 evaluation reports that PIs have also published.
 
