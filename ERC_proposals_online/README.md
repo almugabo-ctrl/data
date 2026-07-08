@@ -37,7 +37,7 @@ ERC_Proposals_Online/
 
 ## How to populate the PDFs
 
-The PDFs are **not** included in this folder — they need to be fetched from each author's chosen host (Figshare, Zenodo, personal site, Proton Drive). Two ways to do it:
+initially, the The PDFs were **not** included and had to be fetched from each author's chosen host (Figshare, Zenodo, personal site, Proton Drive). Two ways to do it:
 
 ### Option A — one command (recommended)
 
